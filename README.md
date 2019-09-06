@@ -27,3 +27,4 @@ Utilizando el administrador de dependencias [Composer](https://getcomposer.org/)
 
 ### Prueba 3: HTML BOOTSTRAP
 Para el siguiente ejercicio se requiere maquetar la imagen referenciada haciendo uso de html y framework css bootstrap
+https://raw.githubusercontent.com/agonzalezasw/test/master/escuela_cocina.png
