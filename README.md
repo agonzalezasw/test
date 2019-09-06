@@ -28,3 +28,6 @@ Utilizando el administrador de dependencias [Composer](https://getcomposer.org/)
 ### Prueba 3: HTML BOOTSTRAP
 Para el siguiente ejercicio se requiere maquetar la imagen referenciada haciendo uso de html y framework css bootstrap
 https://raw.githubusercontent.com/agonzalezasw/test/master/escuela_cocina.png
+
+### Prueba 3: Mysql
+El siguiente ejercicio requiere generar las tablas para recrear el proceso de inscripcion de una matricula estudiantil la cual contendra estudiantes, matricula cursos  tomar en cuenta para dicho modelo las buenas practicas adjuntar archivo sql y modelo entidad relacion adicionalmente crear un store procedure que permite modifcar la fecha de registro de la matricula.
