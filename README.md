@@ -9,7 +9,7 @@ El test consta de 4 problemas los cuales debe resolver y ser entregados el dia L
 
 Para responder la prueba técnica debe realizar un **fork** de este proyecto en su cuenta personal de **Github** siguiendo las siguientes convenciones:
 
-1. Crear una carpeta **src** que contenga las siguientes subcarpetas: **js**, **php** y **html**
+1. Crear una carpeta **src** que contenga las siguientes subcarpetas: **js**, **php**,  **html**, **mysql**
 2. Crear los tres ejercicios, con su correspondiente solución en cada una de las subcarpetas según corresponda
 3. Realizar un commit y push hacia **su repositorio** con la solución para cada uno de los puntos
 
